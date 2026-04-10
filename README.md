@@ -84,6 +84,10 @@
 - [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) - 用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。
 - [Master-skill](https://github.com/xr843/Master-skill) - 基于佛教经典文献整理汉传佛教的教学风格与讲解视角。
 
+## 其它主题
+
+- [产品设计 Skill](https://github.com/GarrusHuang/prd-writer) - 把脑中模糊的产品想法，打磨成开发团队可以直接排期的 PRD，最终输出专业排版的 .docx 文件。
+
 ## 贡献
 
 申请新增收录请先提交 issue 表单；维护者审核并添加 `approved` 标签后，工作流会自动生成 PR。
