@@ -55,7 +55,7 @@
 
 ## 公众人物与方法论视角
 
-- [巴菲特思维操作系统](https://github.com/will2025btc/buffett-perspective) - 提炼沃伦·巴菲特的投资与决策框架，形成可复用的方法论视角。
+- [巴菲特思维操作系统.skill](https://github.com/will2025btc/buffett-perspective) - 提炼沃伦·巴菲特的投资与决策框架，形成可复用的方法论视角。
 - [芒格.skill](https://github.com/alchaincyf/munger-skill) - 提炼查理·芒格的跨学科心智模型与决策启发式，形成可复用的方法论框架。
 - [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) - 提炼纳瓦尔关于财富、杠杆与判断力的框架，形成可复用的方法论视角。
 - [PG.skill](https://github.com/alchaincyf/paul-graham-skill) - 提炼 Paul Graham 关于创业、写作与独立思考的框架，形成可复用的方法论视角。
@@ -75,19 +75,20 @@
 - [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) - 提炼纳西姆·塔勒布关于反脆弱与风险的启发式，形成可复用的方法论框架。
 - [求是 Skill](https://github.com/HughYau/qiushi-skill) - 从相关思想方法中整理实事求是、调查研究与战略判断等工具，形成可复用的问题分析框架。
 - [毛选.skill](https://github.com/leezythu/maoxuan-skill) - 提炼《毛选》中的矛盾分析、根据地思维与战略判断框架，形成可复用的方法论视角。
-- [KarlMarx Skill](https://github.com/baojiachen0214/karlmarx-skill) - 提炼马克思主义的结构分析、矛盾分析与实践检验方法，形成用于深层问题分析的方法论框架。
-- [峰哥亡命天涯 Skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) - 提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。
+- [KarlMarx.skill](https://github.com/baojiachen0214/karlmarx-skill) - 提炼马克思主义的结构分析、矛盾分析与实践检验方法，形成用于深层问题分析的方法论框架。
+- [峰哥亡命天涯.skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) - 提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。
+- [交易员.skill](https://github.com/0xquqi/crypto-kol-quant) - 提炼99个顶级加密交易员的推特"关进锁妖塔"，用LLM炼出他们的交易直觉，变成87个可回测的量化因子。
 
 ## 精神性与专门化主题
 
-- [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) - 基于出生信息与传统命理典籍进行四柱排盘与分析。
-- [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) - 将姻缘测算整理为多模式传统术数技能，覆盖合婚、求签与桃花运势。
-- [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) - 用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。
-- [Master-skill](https://github.com/xr843/Master-skill) - 基于佛教经典文献整理汉传佛教的教学风格与讲解视角。
+- [赛博算命.skill](https://github.com/jinchenma94/bazi-skill) - 基于出生信息与传统命理典籍进行四柱排盘与分析。
+- [月老·姻缘测算.skill](https://github.com/Ming-H/yinyuan-skills) - 将姻缘测算整理为多模式传统术数技能，覆盖合婚、求签与桃花运势。
+- [Numerologist.skill](https://github.com/FANzR-arch/Numerologist_skills) - 用结构化知识库与脚本化约束整理奇门遁甲、紫微斗数等术数技能。
+- [Master.skill](https://github.com/xr843/Master-skill) - 基于佛教经典文献整理汉传佛教的教学风格与讲解视角。
 
 ## 其它主题
 
-- [产品设计 Skill](https://github.com/GarrusHuang/prd-writer) - 把脑中模糊的产品想法，打磨成开发团队可以直接排期的 PRD，最终输出专业排版的 .docx 文件。
+- [产品设计.skill](https://github.com/GarrusHuang/prd-writer) - 把脑中模糊的产品想法，打磨成开发团队可以直接排期的 PRD，最终输出专业排版的 .docx 文件。
 
 ## 贡献
 
