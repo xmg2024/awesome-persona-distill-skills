@@ -31,8 +31,8 @@
 - [数字人生.skill](https://github.com/wildbyteai/digital-life) - 从个人在日常工具中反复留下的数字痕迹中提炼结构化自我画像。
 - [女娲.skill](https://github.com/xmg2024/nvwa-skill) - 从个人的心智模型、决策启发式与表达模式中提炼可复用技能。
 - [永生.skill](https://github.com/agenmod/immortal-skill) - 基于聊天记录与相关资料整理多维数字人格画像。
-- [Forge Skill](https://github.com/YIKUAIBANZI/forge-skill) - 将自我蒸馏与他人蒸馏拆分为独立流程，用于自我镜像、记忆整理与角色化对话。
-- [反蒸馏 Skill](https://github.com/leilei926524-tech/anti-distill) - 面向技能交付场景，将可公开分发的技能内容与私有经验备份分离管理。
+- [Forge.skill](https://github.com/YIKUAIBANZI/forge-skill) - 将自我蒸馏与他人蒸馏拆分为独立流程，用于自我镜像、记忆整理与角色化对话。
+- [反蒸馏.skill](https://github.com/leilei926524-tech/anti-distill) - 面向技能交付场景，将可公开分发的技能内容与私有经验备份分离管理。
 
 ## 职场与学术关系
 
@@ -50,8 +50,8 @@
 - [恋爱训练营.skill](https://github.com/TammyTan516/relationship-training-skill) - 基于聊天记录模拟心动对象的沟通风格，帮助用户在安全沙盒中练习表达、邀约与关系修复。
 - [前任.skill](https://github.com/therealXiaomanChu/ex-skill) - 从私人记录中整理说话方式与共同记忆，用于回忆与关系梳理。
 - [父母.skill](https://github.com/xiaoheizi8/parents-skills) - 从个人材料中提炼父母的语气、习惯与家庭记忆。
-- [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) - 从亲人的聊天记录、信件与语音中整理纪念型家庭陪伴助手。
-- [Reunion Skill](https://github.com/yangdongchen66-boop/reunion-skill) - 基于已故亲友的数字遗物构建可本地运行的纪念型陪伴助手。
+- [Mama.skill](https://github.com/jiangziyan-693/MamaSkill) - 从亲人的聊天记录、信件与语音中整理纪念型家庭陪伴助手。
+- [Reunion.skill](https://github.com/yangdongchen66-boop/reunion-skill) - 基于已故亲友的数字遗物构建可本地运行的纪念型陪伴助手。
 
 ## 公众人物与方法论视角
 
