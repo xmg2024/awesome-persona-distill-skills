@@ -79,6 +79,7 @@
 - [峰哥亡命天涯.skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) - 提炼“峰哥亡命天涯”的现实主义、止损导向与黑色幽默式表达结构，形成可复用的方法论视角。
 - [交易员.skill](https://github.com/0xquqi/crypto-kol-quant) - 提炼99个顶级加密交易员的推特"关进锁妖塔"，用LLM炼出他们的交易直觉，变成87个可回测的量化因子。
 - [孙学.skill](https://github.com/0xquqi/sun-skill) - 提炼孙宇晨的认知框架。
+- [CZ.skill](https://github.com/0xquqi/cz-skill) - 提炼赵长鹏的认知框架。
 
 ## 精神性与专门化主题
 
